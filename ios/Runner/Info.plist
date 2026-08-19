@@ -66,5 +66,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>EchoInk needs microphone access to record your private journal.</string>
+  <key>NSSpeechRecognitionUsageDescription</key>
+  <string>EchoInk uses speech recognition to create your journal transcript.</string>
 </dict>
 </plist>
